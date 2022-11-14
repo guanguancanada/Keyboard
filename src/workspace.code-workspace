@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\Arduino\\MyKeyBoard\\testkeyboard\\test"
+		},
+		{
+			"name": "Keyboard",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
