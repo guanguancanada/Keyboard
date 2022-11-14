@@ -14,7 +14,7 @@
 
 // #include <HID-Project.h>
 
-// Customize value
+// Customize value 
 #define WHEEL_DOWN 0xEE // Mouse wheel down
 #define WHEEL_UP 0xEF   // Mouse wheel up
 
